@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Test ]]></title>
+        <description><![CDATA[Test ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 31 May 2016 16:53:38 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Voor een deel is de kwaliteit van een lens ]]></title>
+            <description><![CDATA[<article><h1>Voor een deel is de kwaliteit van een lens </h1><p>te beschrijven met meetbare eigenschappen, zoals lichtafval, vervorming, contrast en micro-contrast. Dat doen we dan ook in onze testen. Maar er zijn ook eigenschappen die lastiger te meten zijn. Zoals de kwaliteit van bokeh, het kleurkarakter van een lens en het gevoel dat je hebt als je een lens in handen hebt en er mee gaat fotograferen. Dan komt het, net als bij het proeven van wijn, aan op taalgebruik als je de kwaliteit van een lens wil beschrijven. Daarbij ontstaan grote verschillen. Waar de ene reviewer volstaat met "Mwa, wel lekker", bijvoorbeeld omdat hij in Groningen woont, daar heeft een reviewer uit de Randstad het over "Een fluwelen afdronk met duidelijk het aroma van bosbessen, kaneel en gedroogde pruimen, gevolgd door de sensatie van wild en gevogelte. Voor de duidelijkheid: ze hebben het echt over dezelfde wijn.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/acd7420f-196f-492c-b791-0b3a72560b45.jpg"></article>]]></description>
+            <link>undefinedpost-1/index.html</link>
+            <guid isPermaLink="false">894df308-052b-4937-896f-99d1603365ef</guid>
+            <pubDate>Tue, 31 May 2016 16:53:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

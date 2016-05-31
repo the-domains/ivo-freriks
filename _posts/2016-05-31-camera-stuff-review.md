@@ -6,14 +6,15 @@ isBasedOnUrl: 'https://www.camerastuffreview.com/'
 inLanguage: null
 keywords: []
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dui turpis, ullamcorper quis neque ultricies, viverra malesuada augue. Phasellus gravida nulla sit amet sem sagittis egestas. Sed viverra sapien ac justo lacinia posuere. Nam tortor urna, hendrerit ut lacus ut, blandit volutpat leo. Pellentesque est nisl, fermentum eget faucibus vel, sodales vel libero. Donec interdum pretium est, et cursus risus commodo eu. Vivamus rutrum rhoncus enim, vel tincidunt velit varius ut. Mauris ullamcorper metus diam. Nunc aliquet elit non augue consequat, quis dignissim erat vestibulum. Cras in lacus vel felis egestas tempor ac non purus. Nullam placerat sem vel ligula lobortis viverra. Cras semper tortor et justo tempor mollis.'
-datePublished: '2016-05-31T07:55:07.929Z'
-dateModified: '2016-05-31T07:54:50.254Z'
+datePublished: '2016-05-31T07:56:52.911Z'
+dateModified: '2016-05-31T07:55:15.863Z'
 author:
   - name: Ivo Freriks
     url: ''
 related: []
 app_links: []
 title: Camera Stuff Review
+sourcePath: _posts/2016-05-31-camera-stuff-review.md
 authors: []
 publisher:
   name: Camerastuffreview
@@ -21,7 +22,6 @@ publisher:
   url: 'https://www.camerastuffreview.com'
   favicon: 'https://www.camerastuffreview.com/templates/yoo_capture/favicon.ico'
 starred: false
-sourcePath: _posts/2016-05-31-camera-stuff-review.md
 _context: 'http://schema.org'
 _type: MediaObject
 

@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: 'Phasellus dui turpis, ullamcorper quis neque ultricies, viverra malesuada augue. Phasellus gravida nulla sit amet sem sagittis egestas. Sed viverra sapien ac justo lacinia posuere. Nam tortor urna, hendrerit ut lacus ut, blandit volutpat leo. Pellentesque est nisl, fermentum eget faucibus vel, sodales vel libero. Donec interdum pretium est, et cursus risus commodo eu. Vivamus rutrum rhoncus enim, vel tincidunt velit varius ut. Mauris ullamcorper metus diam. Nunc aliquet elit non augue consequat, quis dignissim erat vestibulum. Cras in lacus vel felis egestas tempor ac non purus. Nullam placerat sem vel ligula lobortis viverra. Cras semper tortor et justo tempor mollis.'
-datePublished: '2016-05-31T08:56:51.685Z'
-dateModified: '2016-05-31T08:55:18.543Z'
+datePublished: '2016-05-31T09:30:38.924Z'
+dateModified: '2016-05-31T09:30:15.910Z'
 title: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. '
 author: []
 sourcePath: _posts/2016-05-31-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit.md
@@ -14,7 +14,7 @@ authors: []
 publisher: null
 starred: false
 url: lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b2f64fe-4405-494d-9c55-82dcf7f21784.jpg)

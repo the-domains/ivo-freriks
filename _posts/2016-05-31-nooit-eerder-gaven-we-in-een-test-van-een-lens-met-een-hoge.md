@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Eens moet de eerste keer zijn. Dat is dus nu. De Nikon AF-P 18-55mm f/3.5 -5.6G DX is een kitlens die je voor een aantrekkelijke prijs samen met een Nikon 3300, D5300 of D5500 kan kopen. In vergelijking met de 18-55mm kitlens die bij oudere Nikon DX camera's werd verkocht, is de Nikon AF-P 18-55mm f/3.5-5.6G DX beter in die zin dat die is voorzien van een stappenmotor, waardoor de autofocus sneller is (zowel bij fasedetectie (fotografie) als bij contrastdetectie (video)."
-datePublished: '2016-05-31T17:02:29.151Z'
-dateModified: '2016-05-31T17:01:45.465Z'
+datePublished: '2016-05-31T17:13:12.464Z'
+dateModified: '2016-05-31T17:12:22.071Z'
 title: 'Nooit eerder gaven we in een test van een lens met een hoge prijs/kwaliteitsverhouding het advies om een andere lens te kopen. '
 author: []
 sourcePath: _posts/2016-05-31-nooit-eerder-gaven-we-in-een-test-van-een-lens-met-een-hoge.md

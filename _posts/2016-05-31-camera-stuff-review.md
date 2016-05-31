@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.camerastuffreview.com/'
 inLanguage: null
 keywords: []
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dui turpis, ullamcorper quis neque ultricies, viverra malesuada augue. Phasellus gravida nulla sit amet sem sagittis egestas. Sed viverra sapien ac justo lacinia posuere. Nam tortor urna, hendrerit ut lacus ut, blandit volutpat leo. Pellentesque est nisl, fermentum eget faucibus vel, sodales vel libero. Donec interdum pretium est, et cursus risus commodo eu. Vivamus rutrum rhoncus enim, vel tincidunt velit varius ut. Mauris ullamcorper metus diam. Nunc aliquet elit non augue consequat, quis dignissim erat vestibulum. Cras in lacus vel felis egestas tempor ac non purus. Nullam placerat sem vel ligula lobortis viverra. Cras semper tortor et justo tempor mollis.'
-datePublished: '2016-05-31T07:56:52.911Z'
-dateModified: '2016-05-31T07:55:15.863Z'
+datePublished: '2016-05-31T08:07:18.647Z'
+dateModified: '2016-05-31T08:07:13.793Z'
 author:
   - name: Ivo Freriks
     url: ''
@@ -41,3 +41,5 @@ Nunc eget vulputate nisl. Vivamus vel venenatis risus. Duis commodo malesuada ri
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent mattis lobortis ante, sit amet viverra leo posuere scelerisque. Aliquam hendrerit non mauris ultrices maximus. Donec luctus dapibus elementum. Pellentesque porta nibh sed purus dapibus malesuada. Etiam arcu arcu, suscipit nec nibh ac, venenatis tristique magna. Pellentesque nec ligula tortor. Aenean et mauris at nunc lacinia volutpat. Etiam ipsum risus, auctor in consectetur ut, sollicitudin id lorem. Curabitur tortor urna, rutrum vel cursus nec, lobortis nec urna.
 
 <article style=""><h1>Camera Stuff Review</h1><p>CameraStuffReview: cameratest, lenstest, printertest, fotopapiertest, printcentraletest en online fotoboekentest.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3aa64a9252afd70e1e77aad25977bdcb16b6249a.jpg" /></article>
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1d5e6d3-5575-4ed0-91df-ca285983b5ae.tif)

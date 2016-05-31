@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Vestibulum iaculis tempor felis, vitae volutpat magna tempor ac. Ut vel urna ultricies, interdum est sit amet, porttitor mi. Aliquam eget dui facilisis, vestibulum arcu facilisis, condimentum quam. Sed eget posuere dui. Etiam non molestie sem, sodales blandit nunc. Maecenas id malesuada odio, in ornare est. Duis mollis cursus mi quis facilisis. Morbi felis tellus, mollis a orci quis, suscipit aliquam enim. Donec quis consequat orci. Aenean sodales metus rhoncus bibendum lobortis. Vestibulum in dictum dolor. Suspendisse sit amet orci sit amet nibh scelerisque mollis. Duis sit amet metus id nunc laoreet malesuada. Proin lacus tellus, eleifend vitae arcu nec, ornare efficitur tortor.'
-datePublished: '2016-05-31T10:46:29.747Z'
-dateModified: '2016-05-31T09:43:24.839Z'
+datePublished: '2016-05-31T10:55:30.130Z'
+dateModified: '2016-05-31T10:53:19.822Z'
 author:
   - name: Ivo Freriks
     url: ''
@@ -30,4 +30,4 @@ _type: MediaObject
 
 Vestibulum iaculis tempor felis, vitae volutpat magna tempor ac. Ut vel urna ultricies, interdum est sit amet, porttitor mi. Aliquam eget dui facilisis, vestibulum arcu facilisis, condimentum quam. Sed eget posuere dui. Etiam non molestie sem, sodales blandit nunc. Maecenas id malesuada odio, in ornare est. Duis mollis cursus mi quis facilisis. Morbi felis tellus, mollis a orci quis, suscipit aliquam enim. Donec quis consequat orci. Aenean sodales metus rhoncus bibendum lobortis. Vestibulum in dictum dolor. Suspendisse sit amet orci sit amet nibh scelerisque mollis. Duis sit amet metus id nunc laoreet malesuada. Proin lacus tellus, eleifend vitae arcu nec, ornare efficitur tortor.
 
-<article style=""><h1>Camera Stuff Review</h1><p>CameraStuffReview: cameratest, lenstest</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3aa64a9252afd70e1e77aad25977bdcb16b6249a.jpg" /></article>
+<article style=""><h1>Camera Stuff Review</h1><p>Content aware</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3aa64a9252afd70e1e77aad25977bdcb16b6249a.jpg" /></article>

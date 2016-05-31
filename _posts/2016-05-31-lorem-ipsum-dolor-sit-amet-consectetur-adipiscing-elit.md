@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Phasellus dui turpis, ullamcorper quis neque ultricies, viverra malesuada augue. Phasellus gravida nulla sit amet sem sagittis egestas. Sed viverra sapien ac justo lacinia posuere. Nam tortor urna, hendrerit ut lacus ut, blandit volutpat leo. Pellentesque est nisl, fermentum eget faucibus vel, sodales vel libero. Donec interdum pretium est, et cursus risus commodo eu. Vivamus rutrum rhoncus enim, vel tincidunt velit varius ut. Mauris ullamcorper metus diam. Nunc aliquet elit non augue consequat, quis dignissim erat vestibulum. Cras in lacus vel felis egestas tempor ac non purus. Nullam placerat sem vel ligula lobortis viverra. Cras semper tortor et justo tempor mollis.'
-datePublished: '2016-05-31T17:13:03.663Z'
-dateModified: '2016-05-31T17:12:55.995Z'
+datePublished: '2016-05-31T17:21:55.698Z'
+dateModified: '2016-05-31T17:21:50.550Z'
 title: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. '
 author: []
 sourcePath: _posts/2016-05-31-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit.md

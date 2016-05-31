@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.camerastuffreview.com/'
 inLanguage: null
 keywords: []
 description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dui turpis, ullamcorper quis neque ultricies, viverra malesuada augue. Phasellus gravida nulla sit amet sem sagittis egestas. Sed viverra sapien ac justo lacinia posuere. Nam tortor urna, hendrerit ut lacus ut, blandit volutpat leo. Pellentesque est nisl, fermentum eget faucibus vel, sodales vel libero. Donec interdum pretium est, et cursus risus commodo eu. Vivamus rutrum rhoncus enim, vel tincidunt velit varius ut. Mauris ullamcorper metus diam. Nunc aliquet elit non augue consequat, quis dignissim erat vestibulum. Cras in lacus vel felis egestas tempor ac non purus. Nullam placerat sem vel ligula lobortis viverra. Cras semper tortor et justo tempor mollis.'
-datePublished: '2016-05-31T08:07:18.647Z'
-dateModified: '2016-05-31T08:07:13.793Z'
+datePublished: '2016-05-31T08:10:36.125Z'
+dateModified: '2016-05-31T08:10:33.893Z'
 author:
   - name: Ivo Freriks
     url: ''
